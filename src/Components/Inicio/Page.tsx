@@ -2,7 +2,9 @@ import React from 'react';
 
 function Page(){
     return(
-        <p>estamos en homePage</p>
+        <div className='container'>
+            estamos en homePage!
+        </div>
     )
 }
 
