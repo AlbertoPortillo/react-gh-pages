@@ -25,9 +25,9 @@ function Home(){
     <div className="bg-dark bg-gradient text-light d-flex">
         <div className="container-fluid">
             <Bar onClickButtom={changePage} onClickLogo={onLinkedinLogo} />
-            {page == 0 && <HomePage /> }
-            {page == 1 && <p>Pagina2</p> }
-            {page == 2 && <p>PAgina3</p> }
+            {page === 0 && <HomePage /> }
+            {page === 1 && <p>Pagina2</p> }
+            {page === 2 && <p>PAgina3</p> }
             
         </div>
     </div>

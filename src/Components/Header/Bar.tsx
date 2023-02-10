@@ -4,7 +4,7 @@ import linkedinLogo from '../../imgs/linkedin-logo.png'
 
 function Bar({ onClickButtom, onClickLogo }: any){
     return(
-        <div className="row m-1 bar-root align-items-center border-light border-bottom">
+        <div className="row mx-1 mt-2 mb-5 bar-root align-items-center border-light border-bottom">
             <div className="col-6">
                 <p className="mb-0 text-bits click" onClick={() => onClickButtom(0)}> Bienvenido!!</p>
             </div>

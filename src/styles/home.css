@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Roboto:ital,wght@1,300&display=swap');
 /* Estilos Generales */
 body {
     margin: 0;
@@ -25,4 +25,16 @@ img.bar-img{
     width: 3rem;
     height: 3rem;
     filter: invert(1);
+}
+.page-foto-perfil{
+    border-radius: 65rem;
+    width: 50%;
+    margin-left: 25%;
+}
+.page-text-description{
+    font-family: 'Caveat', cursive;
+    font-size: xx-large;
+}
+.page-title{
+    font-size: x-large;
 }
