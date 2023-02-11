@@ -1,0 +1,71 @@
+.aboutme-text-title{
+    font-size: xxx-large;
+}
+.aboutme-carrousel-body{
+    overflow-x: auto;
+    width: 100%;
+    height: 20rem;
+    align-items: center;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    display: -webkit-inline-box;
+}
+.aboutme-carrousel-body::-webkit-scrollbar {
+    display: none;
+}
+.about-carrousel-item{
+    place-items: center;
+    margin: 10px;
+    text-align: center;
+    width: 10%;
+}
+.about-carrousel-img{
+    width: 90%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+    min-height: fit-content;
+}
+.about-carrousel-text-nombre{
+    font-size:2rem;
+    width: 100%;
+    margin-bottom: 0;
+    height: 15%;
+}
+.about-carrousel-text-nivel{
+    font-size:2rem;
+    width: 100%;
+    margin-bottom: 0;
+    height: 15%;
+}
+.aboutme-experiencia-body{
+    display: contents;
+}
+.experiencia-item-body{
+    width: 44%;
+}
+.experiencia-item-sidefoto{
+    text-align: center;
+    height: min-content;
+}
+.experiencia-item-img{
+    width: 70%;
+    height: 70%;
+    border-radius: 25px;
+}
+.experiencia-item-sidetextos{
+    width: 60%;
+    height: 100%;
+}
+.experiencia-item-nombre{
+    height: 20%;
+    font-size: 1.5rem;
+}
+.experiencia-item-tiempo{
+    height: 9%;
+    font-size: 1.5rem;
+}
+.experiencia-item-description{
+    height: 70%;
+}

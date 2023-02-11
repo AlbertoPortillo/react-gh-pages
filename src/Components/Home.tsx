@@ -7,6 +7,7 @@ import '../styles/home.css'
 //importar componentes para Home
 import Bar from '../Components/Header/Bar'
 import HomePage from '../Components/Inicio/Page';
+import AboutMeInicio from './About/AboutMeInicio';
 
 function Home(){
     const [page, setPage] = useState(0)
@@ -28,22 +29,25 @@ function Home(){
     }
 
     return (
-    <div className="col-12 bg-dark bg-gradient text-light h-100 position-fixed overflow-auto">
+    <div className="container-fluid bg-dark bg-gradient text-light overflow-auto">
         <div className="row mx-5">
             <Bar onClickButtom={changePage} onClickLogo={onLinkedinLogo} />
         </div>
-        <div className="row mx-5 vh-100">
+        <div className="row mx-5">
             {page === 0 && <HomePage /> }
-            {page === 1 && <p>Pagina2</p> }
-            {page === 2 && <p>PAgina3</p> }
-            
+            {page === 1 && <AboutMeInicio/> }
+            {page === 2 && <p>Pagina3</p> }
         </div>
-        <div className="row mb-5"> 
-            <div className="col-3"></div>
-            <div className="col-6">
-                <img src={poster} alt="frederick poster" className='home-posterImg click' onClick={onFrederickPoster} />
+
+
+        {
+            page === 0 && <div className="row mb-5"> 
+                <div className="col-3"></div>
+                <div className="col-6">
+                    <img src={poster} alt="frederick poster" className='home-posterImg click' onClick={onFrederickPoster} />
+                </div>
             </div>
-        </div>
+        }
     </div>
     );
     
