@@ -15,7 +15,7 @@ function Bar({ onClickButtom, onClickLogo }: any){
                 <p className="mb-0 text-bits click" onClick={() => onClickButtom(2)}>Contact ME!</p>
             </div>
             <div className="col-2 text-center " >
-                <img onClick={onClickLogo} src={linkedinLogo} className="bar-img" alt="" />
+                <img onClick={onClickLogo} src={linkedinLogo} className="bar-img click" alt="" />
             </div>
         </div>
     )
