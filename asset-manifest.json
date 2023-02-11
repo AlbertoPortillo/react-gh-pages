@@ -1,17 +1,37 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.38d2f83a.css",
-    "main.js": "/react-gh-pages/static/js/main.18fc4b10.js",
+    "main.css": "/react-gh-pages/static/css/main.3778a6ce.css",
+    "main.js": "/react-gh-pages/static/js/main.cf232e5c.js",
     "static/js/787.ae0d8d37.chunk.js": "/react-gh-pages/static/js/787.ae0d8d37.chunk.js",
     "static/media/poster2.png": "/react-gh-pages/static/media/poster2.b0e8ad87a67ab299c662.png",
     "static/media/me-photo.jpg": "/react-gh-pages/static/media/me-photo.11ebe9b71b533fd10022.jpg",
+    "static/media/csharp.png": "/react-gh-pages/static/media/csharp.e095694584811ade286e.png",
+    "static/media/php.png": "/react-gh-pages/static/media/php.502c1a901665a0453b5c.png",
+    "static/media/dynamicSolutions.png": "/react-gh-pages/static/media/dynamicSolutions.8491c9677985c8759751.png",
+    "static/media/python.png": "/react-gh-pages/static/media/python.f9dc70303b81180b774d.png",
+    "static/media/react.png": "/react-gh-pages/static/media/react.73dbb5bcec516da82694.png",
+    "static/media/slack.png": "/react-gh-pages/static/media/slack.566a720fce6f2901700a.png",
+    "static/media/node.png": "/react-gh-pages/static/media/node.abfaef34ea49d0c7cd3c.png",
+    "static/media/oomovil.jpg": "/react-gh-pages/static/media/oomovil.3c41ec3a4a548b31c8b8.jpg",
+    "static/media/kotlin2.png": "/react-gh-pages/static/media/kotlin2.ef6f6c6f84a84be1ac99.png",
+    "static/media/typescript.png": "/react-gh-pages/static/media/typescript.4e3f27e6784d69f4f587.png",
+    "static/media/javascript.png": "/react-gh-pages/static/media/javascript.d9e5fd3fcc38c5939451.png",
+    "static/media/express.png": "/react-gh-pages/static/media/express.375eee7619857b2ae37a.png",
+    "static/media/sql.png": "/react-gh-pages/static/media/sql.a8462b9c89b510d4aaa0.png",
+    "static/media/laravel.png": "/react-gh-pages/static/media/laravel.279e3fcb19d440713887.png",
+    "static/media/codeigniter.png": "/react-gh-pages/static/media/codeigniter.5c72ff9617a3c4872ba2.png",
+    "static/media/java.png": "/react-gh-pages/static/media/java.a1c01399d2a0b3d10fdd.png",
+    "static/media/firebase.png": "/react-gh-pages/static/media/firebase.236ae3e4ef05a2984f5d.png",
+    "static/media/django.png": "/react-gh-pages/static/media/django.1561b91d7b75f3ca2814.png",
+    "static/media/postman.png": "/react-gh-pages/static/media/postman.2fb2d4164a7e6eaf6f65.png",
+    "static/media/nest.png": "/react-gh-pages/static/media/nest.7868f51570b0c0c71ae4.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.38d2f83a.css.map": "/react-gh-pages/static/css/main.38d2f83a.css.map",
-    "main.18fc4b10.js.map": "/react-gh-pages/static/js/main.18fc4b10.js.map",
+    "main.3778a6ce.css.map": "/react-gh-pages/static/css/main.3778a6ce.css.map",
+    "main.cf232e5c.js.map": "/react-gh-pages/static/js/main.cf232e5c.js.map",
     "787.ae0d8d37.chunk.js.map": "/react-gh-pages/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38d2f83a.css",
-    "static/js/main.18fc4b10.js"
+    "static/css/main.3778a6ce.css",
+    "static/js/main.cf232e5c.js"
   ]
 }
