@@ -1,0 +1,33 @@
+.contactme-text-title{
+    font-size: xx-large;
+}
+.contactme-text-body{
+    font-size: 1rem;
+}
+.contactme-text-labels{
+    font-size: 1.5rem;
+}
+
+input{
+    border-radius: 25px;
+    border: 0;
+    width: 90%;
+    margin: 1rem 5%;
+    font-size: 2rem; 
+    padding: .8rem;
+}
+.contact-text-description{
+    width: 90%;
+    resize: none;
+    border-radius: 25px;
+    padding: .8rem;
+    font-size: 2rem;
+}
+button{
+    height: 5rem;
+    font-size: xx-large !important;
+    border-radius: 50px !important;
+    background-color: grey;
+    color: white;
+    width: 50%;
+}

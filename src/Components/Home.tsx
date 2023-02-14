@@ -8,7 +8,7 @@ import '../styles/home.css'
 import Bar from '../Components/Header/Bar'
 import HomePage from '../Components/Inicio/Page';
 import AboutMeInicio from './About/AboutMeInicio';
-
+import ContactMe from '../Components/Contact/Inicio';
 function Home(){
     const [page, setPage] = useState(0)
 
@@ -36,7 +36,7 @@ function Home(){
         <div className="row mx-5">
             {page === 0 && <HomePage /> }
             {page === 1 && <AboutMeInicio/> }
-            {page === 2 && <p>Pagina3</p> }
+            {page === 2 && <ContactMe/> }
         </div>
 
 
